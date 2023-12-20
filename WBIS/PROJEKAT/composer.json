@@ -1,0 +1,12 @@
+{
+    "name": "dzonzi/projekat",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "ext-mysqli": "*",
+      "ext-json": "*"
+    }
+}
